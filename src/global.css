@@ -1,0 +1,11 @@
+.contain_img {
+    display:flex;
+    flex-wrap:wrap;
+    padding:1rem 0;
+}
+
+img {
+    object-fit: cover;
+    width:8rem;
+    height:5rem;
+}
